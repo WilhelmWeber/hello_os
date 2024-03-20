@@ -1,0 +1,11 @@
+/z_tools
+/tolset_h
+*.bin
+*.img
+*.obj
+*.bim
+*.map
+*.lst
+*.sys
+*.hrb
+*.gas
